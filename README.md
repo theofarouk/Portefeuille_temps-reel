@@ -1,4 +1,4 @@
-# Portefeuille_temps-reel
+# Portefeuille_Finance
 
 Ce projet a pour but de développer mes compétences avancées sur Excel, notamment à 
 travers l'utilisation de formules, de tableaux dynamiques, de récupération de 
